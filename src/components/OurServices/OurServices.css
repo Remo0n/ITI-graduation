@@ -1,9 +1,0 @@
-.card figure {
-  height: 277px !important;
-  margin: 0;
-}
-.cardbody {
-  height: 10rem !important;
-  background-image: url(../../Assets/card2.png);
-  background-size: cover;
-}
